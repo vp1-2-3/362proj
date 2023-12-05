@@ -1,2 +1,3 @@
 # 362proj
-A calculator made solely in C++ using SFML.
+A calculator made in Python.
+The main library that is being used is Tkinter for the GUI.
