@@ -18,3 +18,6 @@ We have a simple bash script that will start up the calculator as well as perfor
 if the calculator is running correctly.
 
 TO RUN FILE: sh calc.sh
+
+Activity Diagram Release:
+![QuickCalc Activity diagram](https://github.com/vp1-2-3/362proj/assets/123424127/450fe70b-e2e8-4ac4-b8d1-06526746371e)
